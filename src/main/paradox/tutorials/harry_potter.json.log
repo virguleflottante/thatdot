@@ -1,0 +1,13 @@
+{ "name": "Lily Potter",           "gender": "female",  "birth_year": 1960,  "children": ["Harry Potter"] }
+{ "name": "James Potter",          "gender": "male",    "birth_year": 1960,  "children": ["Harry Potter"] }
+{ "name": "Molly Weasley",         "gender": "female",  "birth_year": 1949,  "children": ["Ginny Weasley", "Ron Weasley"] }
+{ "name": "Arthur Weasley",        "gender": "male",    "birth_year": 1950,  "children": ["Ginny Weasley", "Ron Weasley"] }
+{ "name": "Harry Potter",          "gender": "male",    "birth_year": 1980,  "children": ["James Sirius Potter", "Albus Severus Potter", "Lily Luna"] }
+{ "name": "Ginny Weasley",         "gender": "female",  "birth_year": 1981,  "children": ["James Sirius Potter", "Albus Severus Potter", "Lily Luna"] }
+{ "name": "Ron Weasley",           "gender": "male",    "birth_year": 1980,  "children": ["Rose Weasley", "Hugo Weasley"] }
+{ "name": "Hermione Granger",      "gender": "female",  "birth_year": 1979,  "children": ["Rose Weasley", "Hugo Weasley"] }
+{ "name": "James Sirius Potter",   "gender": "male",    "birth_year": 2003,  "children": [] }
+{ "name": "Albus Severus Potter",  "gender": "male",    "birth_year": 2005,  "children": [] }
+{ "name": "Lily Luna",             "gender": "female",  "birth_year": 2007,  "children": [] }
+{ "name": "Rose Weasley",          "gender": "female",  "birth_year": 2005,  "children": [] }
+{ "name": "Hugo Weasley",          "gender": "male",    "birth_year": 2008,  "children": [] }
